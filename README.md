@@ -12,5 +12,5 @@ points
 
 2) user can increase number of images to be scraped by increasing iteration of for loop in "LinkScraper" function.
 
-3)user can modify size of image obtained by changing url size
+3) user can modify size of image obtained by changing url size
  
